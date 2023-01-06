@@ -1,1 +1,5 @@
-# message_queue_rnd
+# SNS-SQS RnD
+
+> /sendMessage => Send message
+> /subscribe => Subscribe messages
+> /unsubscribe => Unsubscribe messages
