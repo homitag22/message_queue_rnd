@@ -1,5 +1,7 @@
 # SNS-SQS RnD
 
-> /sendMessage => Send message
-> /subscribe => Subscribe messages
-> /unsubscribe => Unsubscribe messages
+    GET: /sendMessage => Send message
+
+    GET: /subscribe => Subscribe messages
+
+    GET: /unsubscribe => Unsubscribe messages
